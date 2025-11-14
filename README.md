@@ -405,6 +405,7 @@ bin_sizes, _, _ = plt.hist(df.year[non_numeric_profits], bins= range(1955,2006) 
 
 
 ![png](output_11_0.png)
+<img width="372" height="253" alt="output_11_0" src="https://github.com/user-attachments/assets/4eed2d05-d40f-40f3-ad35-fdd019a33a1a" />
 
 
 
@@ -463,6 +464,7 @@ plot(x, y1, ax, 'Increase in mean fortune 500 company profits from 1955 to 2005'
 
 
 ![png](output_16_0.png)
+<img width="434" height="267" alt="output_16_0" src="https://github.com/user-attachments/assets/f022a5ca-0b3e-45ac-988e-4c2e3532c6f5" />
 
 
 
@@ -474,6 +476,7 @@ plot(x, y2, ax, 'Increase in mean Fortune 500 company revenues from 1955 to 2005
 
 
 ![png](output_17_0.png)
+<img width="451" height="267" alt="output_17_0" src="https://github.com/user-attachments/assets/d9aca4b1-6d08-4a07-b191-816580f7df03" />
 
 
 
@@ -494,6 +497,7 @@ fig.tight_layout()
 
 ![png](output_18_0.png)
 
+<img width="987" height="276" alt="output_18_0" src="https://github.com/user-attachments/assets/607931c9-3093-4d4e-9523-20fc7605d336" />
 
 ## Python Fundamentals
 
@@ -856,6 +860,7 @@ matplotlib.pyplot.show()
 
 
 ![png](output_1_0.png)
+<img width="178" height="251" alt="output_1_0" src="https://github.com/user-attachments/assets/5208800d-e506-48a2-ad1e-05d896834459" />
 
 
 
@@ -869,6 +874,7 @@ matplotlib.pyplot.show()
 
 
 ![png](output_2_0.png)
+<img width="368" height="248" alt="output_2_0" src="https://github.com/user-attachments/assets/e2b3847e-6f2e-4a40-9b32-da762f070eaa" />
 
 
 
@@ -879,6 +885,7 @@ matplotlib.pyplot.show()
 
 
 ![png](output_3_0.png)
+<img width="378" height="248" alt="output_3_0" src="https://github.com/user-attachments/assets/0184b524-e75c-417b-85e0-2e090e57da74" />
 
 
 
@@ -889,6 +896,7 @@ matplotlib.pyplot.show()
 
 
 ![png](output_4_0.png)
+<img width="362" height="248" alt="output_4_0" src="https://github.com/user-attachments/assets/89ec9f1a-fd67-4b4a-8541-8e9f068518ba" />
 
 
 
@@ -916,6 +924,7 @@ matplotlib.pyplot.show()
 
 
 ![png](output_5_0.png)
+<img width="712" height="208" alt="output_5_0" src="https://github.com/user-attachments/assets/6e72bf2a-30f4-4e60-95a6-986c9da08c5c" />
 
 
 
@@ -1210,6 +1219,7 @@ for filename in filenames:
 
 
 ![png](output_2_1.png)
+<img width="712" height="208" alt="output_2_1" src="https://github.com/user-attachments/assets/d250a96e-7c0c-483c-83e5-bd1108d3dcfd" />
 
 
     inflammation-02.csv
@@ -1217,6 +1227,7 @@ for filename in filenames:
 
 
 ![png](output_2_3.png)
+<img width="712" height="208" alt="output_2_3" src="https://github.com/user-attachments/assets/7340c0ef-df71-4b41-967a-cf8440801573" />
 
 
     inflammation-03.csv
@@ -1224,6 +1235,7 @@ for filename in filenames:
 
 
 ![png](output_2_5.png)
+<img width="712" height="208" alt="output_2_5" src="https://github.com/user-attachments/assets/57eb9318-22ee-44a9-87a0-01aa93a46ad0" />
 
 
     inflammation-04.csv
@@ -1231,6 +1243,7 @@ for filename in filenames:
 
 
 ![png](output_2_7.png)
+<img width="712" height="208" alt="output_2_7" src="https://github.com/user-attachments/assets/ae3d5898-c4ce-426e-909d-40c583dae5b9" />
 
 
     inflammation-05.csv
@@ -1238,6 +1251,7 @@ for filename in filenames:
 
 
 ![png](output_2_9.png)
+<img width="712" height="208" alt="output_2_9" src="https://github.com/user-attachments/assets/ca4f6c6c-01a3-4648-8218-bda9d271b10e" />
 
 
     inflammation-06.csv
@@ -1245,6 +1259,7 @@ for filename in filenames:
 
 
 ![png](output_2_11.png)
+<img width="712" height="208" alt="output_2_11" src="https://github.com/user-attachments/assets/1da97e38-1e32-47f6-819c-391a3fc57cb0" />
 
 
     inflammation-07.csv
@@ -1252,6 +1267,7 @@ for filename in filenames:
 
 
 ![png](output_2_13.png)
+<img width="712" height="208" alt="output_2_13" src="https://github.com/user-attachments/assets/c8ff2561-4b0c-4bf1-86d5-f258e1b42f54" />
 
 
     inflammation-08.csv
@@ -1259,6 +1275,7 @@ for filename in filenames:
 
 
 ![png](output_2_15.png)
+<img width="712" height="208" alt="output_2_15" src="https://github.com/user-attachments/assets/275e0e38-8195-4aec-a103-ccfab9cdb29f" />
 
 
     inflammation-09.csv
@@ -1266,6 +1283,7 @@ for filename in filenames:
 
 
 ![png](output_2_17.png)
+<img width="712" height="208" alt="output_2_17" src="https://github.com/user-attachments/assets/11a2a6dc-fbce-4afc-bb00-b9abc5d0eaa1" />
 
 
     inflammation-10.csv
@@ -1273,6 +1291,7 @@ for filename in filenames:
 
 
 ![png](output_2_19.png)
+<img width="712" height="208" alt="output_2_19" src="https://github.com/user-attachments/assets/24d1c9cb-82fd-4d52-afd9-6d36995e085f" />
 
 
     inflammation-11.csv
@@ -1280,6 +1299,7 @@ for filename in filenames:
 
 
 ![png](output_2_21.png)
+<img width="712" height="208" alt="output_2_21" src="https://github.com/user-attachments/assets/f2452808-fb1e-4993-93d0-1ad6fbee56bd" />
 
 
     inflammation-12.csv
@@ -1287,6 +1307,7 @@ for filename in filenames:
 
 
 ![png](output_2_23.png)
+<img width="712" height="208" alt="output_2_23" src="https://github.com/user-attachments/assets/829cdb5c-d0a0-4b8c-bc70-5dd5e7055e5a" />
 
 
 ## Making Choices
@@ -1559,6 +1580,7 @@ for filename in filenames:
 
 
 ![png](output_3_1.png)
+<img width="712" height="208" alt="output_3_1" src="https://github.com/user-attachments/assets/c9754f2f-ad39-4086-b46b-764baf62f1e3" />
 
 
     Suspicious looking maxima!
@@ -1567,6 +1589,7 @@ for filename in filenames:
 
 
 ![png](output_3_3.png)
+<img width="712" height="208" alt="output_3_3" src="https://github.com/user-attachments/assets/aaf95fc1-6be7-45d7-a706-0d41f2be5c46" />
 
 
     Suspicious looking maxima!
@@ -1575,6 +1598,7 @@ for filename in filenames:
 
 
 ![png](output_3_5.png)
+<img width="712" height="208" alt="output_3_5" src="https://github.com/user-attachments/assets/05e01ae3-18f0-48a3-8de9-c3b60e7bbcbc" />
 
 
     Minima add up to zero!
@@ -1583,6 +1607,7 @@ for filename in filenames:
 
 
 ![png](output_3_7.png)
+<img width="712" height="208" alt="output_3_7" src="https://github.com/user-attachments/assets/8bbaf7b9-b094-4705-af29-e0e11e94fd1f" />
 
 
     Suspicious looking maxima!
@@ -1591,6 +1616,7 @@ for filename in filenames:
 
 
 ![png](output_3_9.png)
+<img width="712" height="208" alt="output_3_9" src="https://github.com/user-attachments/assets/4b3717dd-82d8-4cb0-9ae9-ca129dbf2893" />
 
 
     Suspicious looking maxima!
@@ -1599,6 +1625,7 @@ for filename in filenames:
 
 
 ![png](output_3_11.png)
+<img width="712" height="208" alt="output_3_11" src="https://github.com/user-attachments/assets/5e8bea5f-df2c-4be2-83dc-afa91c5454d8" />
 
 
     Suspicious looking maxima!
@@ -1607,6 +1634,7 @@ for filename in filenames:
 
 
 ![png](output_3_13.png)
+<img width="712" height="208" alt="output_3_13" src="https://github.com/user-attachments/assets/ba607e76-5b2a-4156-93ab-d692507711b2" />
 
 
     Suspicious looking maxima!
@@ -1615,6 +1643,7 @@ for filename in filenames:
 
 
 ![png](output_3_15.png)
+<img width="712" height="208" alt="output_3_15" src="https://github.com/user-attachments/assets/b1165ff6-2a8c-4d82-855d-b203cff2e155" />
 
 
     Minima add up to zero!
@@ -1623,6 +1652,7 @@ for filename in filenames:
 
 
 ![png](output_3_17.png)
+<img width="712" height="208" alt="output_3_17" src="https://github.com/user-attachments/assets/866551aa-4c0c-4d9a-818d-e4ff9718aad9" />
 
 
     Suspicious looking maxima!
@@ -1631,6 +1661,7 @@ for filename in filenames:
 
 
 ![png](output_3_19.png)
+<img width="712" height="208" alt="output_3_19" src="https://github.com/user-attachments/assets/a549873a-a3f1-4f06-b039-2179a7cb69ae" />
 
 
     Suspicious looking maxima!
@@ -1639,6 +1670,7 @@ for filename in filenames:
 
 
 ![png](output_3_21.png)
+<img width="712" height="208" alt="output_3_21" src="https://github.com/user-attachments/assets/0d91b8e2-2c5e-4b63-a229-e9c6aa278a24" />
 
 
     Minima add up to zero!
@@ -1647,6 +1679,7 @@ for filename in filenames:
 
 
 ![png](output_3_23.png)
+<img width="712" height="208" alt="output_3_23" src="https://github.com/user-attachments/assets/8b38623a-9dd3-4fb6-86e9-ba7b0a444ec3" />
 
 
     Suspicious looking maxima!
